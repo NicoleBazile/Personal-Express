@@ -1,0 +1,25 @@
+body{
+  /* background: #ef98a1; */
+  background-image: url(./issapink.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #825c52;
+  text-align: center;
+}
+h3{
+  margin-top: 40px;
+  font-size: 1.4rem;
+}
+h1, h3{
+  text-decoration: underline;
+}
+ul{
+  list-style-type: none;
+  font-size: 1.2rem;
+}
+#qaBox{
+  background-color: #b2c9a9;
+  border-radius: 25px;
+  padding: 20px;
+  margin: auto 400px;
+}
